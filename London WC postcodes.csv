@@ -1,0 +1,15 @@
+Postcode district,Post town,Coverage,Local authority area
+WC1A,LONDON,New Oxford Street,Camden
+WC1B,LONDON,"Bloomsbury, British Museum, Southampton Row",Camden
+WC1E,LONDON,"University College London, SOAS",Camden
+WC1H,LONDON,"St Pancras, UCL Institute of Education",Camden
+WC1N,LONDON,"Russell Square, Great Ormond Street",Camden
+WC1R,LONDON,Gray's Inn,Camden
+WC1V,LONDON,High Holborn,"Camden, City of London"
+WC1X,LONDON,"Kings Cross, Finsbury (west), Clerkenwell (north)","Camden, Islington"
+WC2A,LONDON,"Lincoln's Inn Fields, Royal Courts of Justice, Chancery Lane","Camden, Westminster, City of London"
+WC2B,LONDON,"Drury Lane, Kingsway, Aldwych","Camden, Westminster"
+WC2E,LONDON,Covent Garden,Westminster
+WC2H,LONDON,"Leicester Square, St. Giles","Camden, Westminster"
+WC2N,LONDON,Charing Cross,Westminster
+WC2R,LONDON,"Somerset House, Temple (west)",Westminster

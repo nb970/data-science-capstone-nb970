@@ -1,0 +1,171 @@
+,level_0,index,Postcode district,Neighborhood,Borough,Latitude,Longitude
+0,0,0,E1,"Eastern head district: Aldgate (part), Bishopsgate (part), Whitechapel, Shoreditch (part), Spitalfields, Shadwell, Limehouse, Stepney, Mile End (part), Portsoken","Tower Hamlets, Hackney, City of London",51.51766,-0.058410000000000004
+1,1,1,E1W,"Wapping, St Katharine Docks, Stepney (part), Shadwell (part), Whitechapel (part)",Tower Hamlets,51.50775,-0.05739
+2,2,2,E2,"Bethnal Green district: Bethnal Green, Haggerston, Hoxton (part), Shoreditch (part), Cambridge Heath, Globe Town, Shoreditch (part)","Tower Hamlets, Hackney",51.52939,-0.0608
+3,3,3,E3,"Bow district: Bow, Bow Common, Bromley-by-Bow, Old Ford, Mile End (part), Fish Island, Hackney Wick (part), South Bromley, Mill Meads (part)","Tower Hamlets, Newham",51.52789,-0.02482
+4,4,4,E4,"Chingford district: Chingford, Sewardstone, Highams Park, Upper Edmonton (part), Woodford Green (part)","Waltham Forest, Enfield, Epping Forest (Essex)",51.621959999999994,-0.00339
+5,5,5,E5,"Clapton district: Leyton (Part), Upper Clapton, Lower Clapton, Stoke Newington (part)","Hackney, Waltham Forest",51.55893,-0.052329999999999995
+6,6,6,E6,"East Ham district: East Ham, Beckton, Upton Park (part), Barking (part)","Newham, Barking and Dagenham",51.5256,0.05583
+7,7,7,E7,"Forest Gate district: Forest Gate, Leytonstone (Part), Stratford (part)","Newham, Waltham Forest",51.54678,0.02793
+8,8,8,E8,"Hackney district: Hackney Central, Dalston, London Fields, Stoke Newington (part)",Hackney,51.54202,-0.06315
+9,9,9,E9,"Homerton district: Homerton, Hackney Wick, South Hackney, Hackney Marshes, Victoria Park","Hackney, Tower Hamlets",51.54258,-0.04293
+10,10,10,E10,"Leyton district: Leyton, Temple Mills, Hackney Marshes (part) Upper Clapton (part), Walthamstow Marshes","Waltham Forest, Hackney",51.56814,-0.01153
+11,11,11,E11,"Leytonstone district: Leytonstone, Wanstead, Aldersbrook (part), Snaresbrook, Cann Hall","Waltham Forest, Redbridge",51.56769,0.014430000000000002
+12,12,12,E12,"Manor Park district: Manor Park, Little Ilford, Aldersbrook (part)","Newham, Redbridge",51.54992,0.05404
+13,13,13,E13,"Plaistow district: Plaistow, West Ham (part), Upton Park (part)",Newham,51.527,0.02705
+14,14,14,E14,"Poplar district: Poplar, Isle of Dogs, Limehouse, Canary Wharf, Millwall, Blackwall, Cubitt Town, South Bromley, North Greenwich, Leamouth",Tower Hamlets,51.5062,-0.01855
+15,15,15,E15,"Stratford district: Stratford, West Ham (part), Maryland, Leyton (part), Leytonstone (part) Temple Mills (part), Hackney Wick (part), Bow (part)","Newham, Waltham Forest, Hackney, Tower Hamlets",51.53911,0.00307
+16,16,16,E16,"Victoria Docks and North Woolwich district: Canning Town, Silvertown, Royal Docks, North Woolwich, Beckton (part), Custom House",Newham,51.51083,0.026330000000000003
+17,17,17,E17,"Walthamstow district: Walthamstow, Upper Walthamstow, Leyton (part)",Waltham Forest,51.58623,-0.01796
+18,18,18,E18,"Woodford and South Woodford district: Woodford, South Woodford",Redbridge,51.59176,0.02705
+19,19,19,E20,"Olympic Park district: Olympic Park, & parts of Stratford, Homerton, Leyton, Bow;","Newham, Waltham Forest, Hackney, Tower Hamlets",51.538610999999996,-0.016388999999999997
+20,22,22,EC1A,St Bartholomew's Hospital,"City of London, Islington",51.52019,-0.10300000000000001
+21,23,23,EC1M,"Clerkenwell, Farringdon","Islington, Camden, City of London",51.52106,-0.10152
+22,24,24,EC1N,Hatton Garden,"Camden, City of London",51.52026,-0.10732
+23,25,26,EC1R,"Finsbury, Finsbury Estate (west)","Islington, Camden",51.52475,-0.10712999999999999
+24,26,27,EC1V,"Finsbury (east), Moorfields Eye Hospital","Islington, Hackney",51.525490000000005,-0.09701
+25,27,28,EC1Y,"St Luke's, Bunhill Fields","Islington, City of London",51.52272,-0.0928
+26,28,29,EC2A,Shoreditch,"Islington, Hackney, City of London",51.5226,-0.0856
+27,29,30,EC2M,"Broadgate, Liverpool Street",Tower Hamlets,51.51811,-0.08578
+28,30,31,EC2N,"Old Broad Street, Tower 42",City of London,51.51631,-0.08586
+29,31,33,EC2R,Bank of England,City of London,51.5164,-0.09162000000000001
+30,32,34,EC2V,Guildhall,City of London,51.51553,-0.0931
+31,33,35,EC2Y,Barbican,City of London,51.520070000000004,-0.09579
+32,34,36,EC3A,"St Mary Axe, Aldgate",City of London,51.51534,-0.08158
+33,35,37,EC3M,"Lloyd's of London, Fenchurch Street",City of London,51.51267,-0.08313
+34,36,38,EC3N,"Tower Hill, Tower of London","Tower Hamlets, City of London",51.5126,-0.07881
+35,37,40,EC3R,"Monument, Billingsgate",City of London,51.511790000000005,-0.08461
+36,38,41,EC3V,"Cornhill, Gracechurch Street, Lombard Street",City of London,51.51361,-0.08597
+37,39,42,EC4A,Fetter Lane,"City of London, Westminster",51.51576,-0.10751
+38,40,43,EC4M,St Paul's,City of London,51.51475,-0.10034
+39,41,44,EC4N,Mansion House,City of London,51.51463,-0.09314
+40,42,46,EC4R,Cannon Street,City of London,51.51191,-0.09181
+41,43,47,EC4V,Blackfriars,City of London,51.51293,-0.09897
+42,44,48,EC4Y,Temple,"City of London, Westminster",51.51397,-0.10758
+43,45,50,N1,"Northern head district: Barnsbury (part), Canonbury, Kings Cross, Islington, Pentonville, De Beauvoir Town, Hoxton. Shoreditch (part)","Hackney, Islington, Camden",51.53717,-0.09652000000000001
+44,48,53,N2,"East Finchley district: East Finchley, Fortis Green, Hampstead Garden Suburb (part)","Barnet, Haringey",51.58957,-0.16797
+45,49,54,N3,"Finchley district: Finchley, Church End, Finchley Central",Barnet,51.59984,-0.1921
+46,50,55,N4,"Finsbury Park district: Finsbury Park, Manor House, Harringay (part), Stroud Green","Haringey, Islington, Hackney",51.57052,-0.1009
+47,51,56,N5,"Highbury district: Highbury, Highbury Fields",Islington,51.55337,-0.09729
+48,52,57,N6,"Highgate district: Highgate, Hampstead Heath (part)","Camden, Haringey, Islington",51.57116,-0.14129
+49,53,58,N7,"Holloway district: Holloway, Barnsbury (part), Islington (part), Tufnell Park (part)","Islington, Camden",51.55277,-0.11607
+50,54,59,N8,"Hornsey district: Hornsey, Crouch End, Harringay (part)","Haringey, Islington",51.58335,-0.11625
+51,55,60,N9,"Lower Edmonton district: Lower Edmonton, Edmonton (part)",Enfield,51.62825,-0.056589999999999994
+52,56,61,N10,"Muswell Hill district: Muswell Hill, Friern Barnet (part)","Haringey, Barnet",51.59368,-0.14325
+53,57,62,N11,"New Southgate district: New Southgate, Friern Barnet, Bounds Green, Arnos Grove (part)","Enfield, Barnet, Haringey",51.61338,-0.13812
+54,58,63,N12,"North Finchley district: North Finchley, Woodside Park, Friern Barnet (part)",Barnet,51.61487,-0.17561
+55,59,64,N13,Palmers Green district: Palmers Green,Enfield,51.6191,-0.10176
+56,60,65,N14,"Southgate district: Southgate, Oakwood, Arnos Grove (part)","Enfield, Barnet",51.63392,-0.1286
+57,61,66,N15,"South Tottenham district: South Tottenham, Harringay (part), West Green, Seven Sisters",Haringey,51.5819,-0.08166
+58,62,67,N16,"Stoke Newington district: Stoke Newington, Stamford Hill (part), Shacklewell, Dalston (part), Newington Green (part)","Islington, Hackney",51.5629,-0.07525
+59,63,68,N17,Tottenham district: Tottenham,Haringey,51.59791,-0.07088
+60,64,69,N18,"Upper Edmonton district: Upper Edmonton, Edmonton (part)",Enfield,51.61309,-0.06446
+61,65,70,N19,"Upper Holloway district: Upper Holloway, Archway, Tufnell Park (part)","Islington, Camden",51.564640000000004,-0.12712
+62,66,71,N20,"Whetstone district: Whetstone, Totteridge, Oakleigh Park",Barnet,51.62923,-0.17359000000000002
+63,67,72,N21,"Winchmore Hill district: Winchmore Hill, Bush Hill (part), Grange Park, World's End (part)",Enfield,51.63612,-0.09816
+64,68,73,N22,"Wood Green district: Wood Green, Bounds Green (part), Bowes Park","Haringey, Enfield",51.59944,-0.1098
+65,70,75,NW1,"North Western head district: Marylebone (part), Euston, Regent's Park, Baker Street, Camden Town, Somers Town, Primrose Hill (part) and Lisson Grove (part)","Camden, Westminster",51.53252,-0.14286
+66,72,77,NW2,"Cricklewood district: Cricklewood, Dollis Hill, Childs Hill, Golders Green (part), Brent Cross (part), Willesden (north), Neasden (north)","Barnet, Brent, Camden",51.557970000000005,-0.21829
+67,73,78,NW3,"Hampstead district: Hampstead, Belsize Park, Frognal, Childs Hill (east), South Hampstead (north), Swiss Cottage (east), Primrose Hill (north), Chalk Farm (west), Gospel Oak","Camden, Barnet",51.551840000000006,-0.17093
+68,74,79,NW4,"Hendon district: Hendon, Brent Cross (part)",Barnet,51.58682,-0.22294
+69,75,80,NW5,"Kentish Town district: Kentish Town, Camden Town (part), Gospel Oak (part), Dartmouth Park, Chalk Farm (east), Tufnell Park (west)","Camden, Islington",51.551390000000005,-0.14209000000000002
+70,76,81,NW6,"Kilburn district: Kilburn, Brondesbury, West Hampstead, Queen's Park, Kensal Green (part), South Hampstead (south), Swiss Cottage (west)","Brent, Camden, Westminster",51.54142,-0.19442
+71,77,82,NW7,"Mill Hill district: Mill Hill, Arkley (part), Edgware (part)",Barnet,51.61488,-0.23484000000000002
+72,78,83,NW8,"St John's Wood district: St John's Wood, Primrose Hill (south), Marylebone (north), Lisson Grove (north)","Westminster, Camden",51.53117,-0.17175
+73,79,84,NW9,"The Hyde district: The Hyde, Colindale, Kingsbury, West Hendon, Wembley Park (part), Queensbury (part)","Barnet, Brent, Harrow",51.5864,-0.25472
+74,80,85,NW10,"Willesden district: Willesden, Harlesden, Kensal Green, Brent Park, College Park, Stonebridge, North Acton (part), West Twyford, Neasden (south), Old Oak Common, Park Royal (north)","Brent, Ealing, Hammersmith and Fulham, Kensington and Chelsea",51.53951,-0.24641
+75,81,86,NW11,"Golders Green district: Golders Green, Temple Fortune, Hampstead Garden Suburb (west), Hendon (part), Brent Cross (part)",Barnet,51.578309999999995,-0.19584000000000001
+76,83,88,SE1,"South Eastern head district: Bankside, South Bank, Lambeth (part), Southwark, Bermondsey (part), Vauxhall (part), Old Kent Road (part)","Lambeth, Southwark, City of London",51.49838,-0.08949
+77,84,90,SE2,"Abbey Wood district: Abbey Wood, West Heath, Crossness, Thamesmead (part), Plumstead (part), Bostall","Bexley, Greenwich",51.48943,0.11759000000000001
+78,85,91,SE3,"Blackheath district: Blackheath, Kidbrooke, Westcombe Park","Greenwich, Lewisham",51.46866,0.02015
+79,86,92,SE4,"Brockley district: Brockley, Crofton Park, Ladywell, Telegraph Hill",Lewisham,51.46058,-0.03348
+80,87,93,SE5,"Camberwell district: Camberwell, Denmark Hill, Peckham, Brixton (part)","Southwark, Lambeth",51.47322,-0.09055
+81,88,94,SE6,"Catford district: Catford, Bellingham, Hither Green (part), Rushey Green",Lewisham,51.43777,-0.01432
+82,89,95,SE7,Charlton district: Charlton,Greenwich,51.48369,0.035210000000000005
+83,90,96,SE8,"Deptford district: Deptford, Evelyn, Rotherhithe (part), St John's","Greenwich, Lewisham, Southwark",51.48118,-0.02828
+84,91,97,SE9,"Eltham district: Eltham, Mottingham, New Eltham, Well Hall, Avery Hill (part), Falconwood (part), Sidcup (part), Chinbrook (part), Longlands (part) Kidbrooke (part), Shooter's Hill (part)","Bexley, Bromley, Greenwich, Lewisham",51.44465,0.056510000000000005
+85,92,98,SE10,"Greenwich district: Greenwich, Maze Hill, Greenwich Peninsula, North Greenwich[disambiguation needed]","Greenwich, Lewisham",51.48162,-0.0008900000000000001
+86,93,99,SE11,"Kennington district: Kennington, Lambeth (part), Vauxhall (part), Oval (part)","Lambeth, Southwark",51.4888,-0.10862000000000001
+87,94,100,SE12,"Lee district: Lee, Mottingham, Grove Park, Chinbrook, Hither Green (part), Eltham (part), Horn Park","Greenwich, Lewisham, Bromley",51.4443,0.02483
+88,95,101,SE13,"Lewisham district: Lewisham, Hither Green, Ladywell","Greenwich, Lewisham",51.45837,-0.0091
+89,96,102,SE14,"New Cross district: New Cross, Telegraph Hill",Lewisham,51.47511,-0.0415
+90,97,103,SE15,"Peckham district: Peckham, Nunhead, South Bermondsey (part), Old Kent Road (part)","Lewisham, Southwark",51.47189,-0.06468
+91,98,104,SE16,"Rotherhithe district: Rotherhithe (part), Surrey Quays, South Bermondsey (part)","Lewisham, Southwark",51.49597,-0.052129999999999996
+92,99,105,SE17,"Walworth district: Walworth, Kennington (part), Newington",Southwark,51.48764,-0.09282
+93,100,106,SE18,"Woolwich district: Woolwich, Royal Arsenal, Plumstead, Shooter's Hill","Bexley, Greenwich",51.483909999999995,0.07412
+94,101,107,SE19,"Norwood district: Upper Norwood, Crystal Palace","Bromley, Croydon, Lambeth, Lewisham, Southwark",51.41735,-0.08424
+95,102,108,SE20,"Anerley district: Anerley, Crystal Palace (part), Penge, Beckenham (part)",Bromley,51.41151,-0.05716
+96,103,109,SE21,"Dulwich district: Dulwich, Dulwich Village, West Dulwich, Tulse Hill (part)","Lambeth, Southwark",51.43807,-0.08626
+97,104,110,SE22,"East Dulwich district: East Dulwich, Dulwich Village (part), Peckham Rye, Loughborough Junction, Herne Hill",Southwark,51.45401,-0.07119
+98,105,111,SE23,"Forest Hill district: Forest Hill, Honor Oak, Crofton Park (part), Perry Vale","Lewisham, Southwark",51.44015,-0.04875
+99,106,112,SE24,"Herne Hill district: Herne Hill, Tulse Hill (part), Dulwich (part), Brixton (part)","Lambeth, Southwark",51.45446,-0.09852999999999999
+100,107,113,SE25,"South Norwood district: South Norwood, Selhurst (part), Thornton Heath (part), Woodside (part)",Croydon,51.397420000000004,-0.07501000000000001
+101,108,114,SE26,"Sydenham district: Sydenham, Crystal Palace (part)","Bromley, Lewisham, Southwark",51.42674,-0.05364
+102,109,115,SE27,"West Norwood district: West Norwood, Gipsy Hill (part)",Lambeth,51.43022,-0.10097
+103,110,116,SE28,Thamesmead district: Thamesmead,"Bexley, Greenwich",51.50219,0.10809
+104,111,117,SW1A,"Whitehall, Buckingham Palace, the Houses of Parliament and west of St James's",Westminster,51.50265,-0.13111
+105,112,118,SW1E,Northern 'Victoria' around Buckingham Gate (a street) to include both sides of part of Victoria Street,Westminster,51.497370000000004,-0.13853
+106,113,119,SW1H,"Surrounds of St James's Park tube station centred on Broadway, Queen Anne's Gate and Old Queen Street to include both sides of part of Victoria Street – derivation: Horse Guards Parade",Westminster,51.49818,-0.13273
+107,114,120,SW1P,"A projection around Parliament Square. Nearby Westminster School to Westminster Cathedral to CCAL, University of the Arts, London (omitting all backstreets nearest to Vauxhall Bridge Road) – derivation: Parliament Square",Westminster,51.49548,-0.13284
+108,115,121,SW1V,"between Vauxhall Bridge, Grosvenor (or Victoria Railway) Bridge and Victoria Station, taking in both sides of Vauxhall Bridge Road; includes Pimlico",Westminster,51.490159999999996,-0.13738
+109,116,122,SW1W,"South or lower Belgravia and Chelsea (a corner), from Sloane Square to Victoria Station to Grosvenor Waterside basin","Westminster, Kensington and Chelsea",51.49302,-0.14735
+110,117,123,SW1X,"Rest of Belgravia (north of Eaton Square), Knightsbridge (eastern half) and Chelsea (a corner)","Westminster, Kensington and Chelsea",51.4976,-0.15292999999999998
+111,118,124,SW1Y,All but the west of St James's,Westminster,51.505390000000006,-0.13388
+112,119,125,SW2,"Brixton district: Brixton Hill, Tulse Hill (part), Brixton (part), Streatham Hill, Clapham (part), Eastern parts of Balham, Lambeth",Lambeth,51.44939,-0.11889000000000001
+113,120,126,SW3,"Chelsea district: Chelsea, Brompton, Knightsbridge (part)",Kensington and Chelsea,51.48969,-0.16477
+114,121,127,SW4,"Clapham district: Clapham, Stockwell (part)","Lambeth, Wandsworth",51.46045,-0.13571
+115,122,128,SW5,Earls Court district: Earls Court,Kensington and Chelsea,51.49005,-0.18781
+116,123,129,SW6,"Fulham district: Fulham, Parsons Green",Hammersmith and Fulham,51.47675,-0.19985999999999998
+117,124,130,SW7,"South Kensington district: South Kensington, Knightsbridge (part)","Kensington and Chelsea, Westminster",51.496140000000004,-0.1746
+118,125,131,SW8,"South Lambeth district: South Lambeth, Wandsworth Road, Vauxhall, Battersea:Nine Elms (part), Clapham (part), NW area of Stockwell, Oval (part)","Lambeth, Wandsworth",51.47566,-0.13077
+119,126,132,SW9,"Stockwell district: Brixton, Stockwell, Clapham (part), Oval (part)",Lambeth,51.46907,-0.11232
+120,127,133,SW10,"West Brompton district: West Brompton, Chelsea (part)","Kensington and Chelsea, Hammersmith and Fulham",51.48365,-0.18086
+121,128,134,SW11,"Battersea head district: Battersea, Clapham South","Wandsworth, Lambeth",51.4663,-0.16427
+122,129,135,SW12,"Balham district: Balham, Clapham South, Wandsworth Common (part)","Wandsworth, Lambeth",51.44536,-0.14784
+123,130,136,SW13,Barnes district: Barnes,Richmond upon Thames,51.47473,-0.24458000000000002
+124,131,137,SW14,"Mortlake district: Mortlake, East Sheen",Richmond upon Thames,51.465140000000005,-0.26511
+125,132,138,SW15,"Putney district: Putney, Roehampton, Kingston Vale, Putney Heath, Putney Vale, Richmond Park, Roehampton Vale","Wandsworth, Kingston upon Thames, Richmond upon Thames",51.45734,-0.22509
+126,133,139,SW16,"Streatham district: Streatham, Streatham Common, Norbury, Streatham Park, Furzedown, Streatham Vale, Mitcham Common, Pollards Hill, Eastfields","Lambeth, Croydon, Wandsworth, Merton",51.42165,-0.12722
+127,134,140,SW17,"Tooting district: Tooting, Balham (part), Mitcham (part)","Wandsworth, Merton",51.4303,-0.16283
+128,135,141,SW18,"Wandsworth district: Wandsworth Town, Southfields, Earlsfield",Wandsworth,51.4496,-0.18941
+129,136,142,SW19,"Wimbledon district: Wimbledon, Colliers Wood, Merton Park, Merton Abbey, Southfields, Morden (part)","Merton, Wandsworth",51.42284,-0.20340999999999998
+130,137,143,SW20,"West Wimbledon district: Raynes Park, Lower Morden, Merton Park, Wimbledon Chase",Merton,51.410579999999996,-0.22546999999999998
+131,139,145,W1B,"Portland Place, Regent Street",Westminster,51.51357,-0.13931
+132,140,146,W1C,Oxford Street (west),Westminster,51.513709999999996,-0.14795
+133,141,147,W1D,"Soho (south east); Chinatown, Soho Square",Westminster,51.51344,-0.13066
+134,142,148,W1F,Soho (north west),Westminster,51.512609999999995,-0.13502
+135,143,149,W1G,Harley Street,Westminster,51.51818,-0.14633
+136,144,150,W1H,Marylebone,Westminster,51.51659,-0.15936
+137,145,151,W1J,"Mayfair (south), Piccadilly",Westminster,51.50735,-0.14388
+138,146,152,W1K,"Mayfair (north), Grosvenor Square",Westminster,51.51104,-0.1495
+139,147,153,W1S,"Mayfair (east), Hanover Square, Savile Row, Royal Academy",Westminster,51.5109,-0.14085999999999999
+140,148,154,W1T,"Fitzrovia, Tottenham Court Road",Camden,51.5198,-0.13473
+141,149,155,W1U,Marylebone,Westminster,51.51827,-0.15209
+142,150,156,W1W,"Great Portland Street, Fitzrovia",Westminster,51.51897,-0.13909000000000002
+143,151,157,W2,"Paddington head district: Paddington, Bayswater, Hyde Park, Westbourne Green, Little Venice (part), Notting Hill (part)","Westminster, Kensington and Chelsea",51.51508,-0.17815999999999999
+144,152,158,W3,"Acton district: Acton, West Acton, North Acton (part), South Acton, East Acton (west), Park Royal (south), Hanger Hill Garden Estate, Gunnersbury Park","Ealing, Hounslow, Hammersmith and Fulham",51.50925,-0.26775
+145,153,159,W4,"Chiswick district: Chiswick, Gunnersbury, Turnham Green, Acton Green, South Acton (part), Bedford Park","Hounslow, Ealing, Hammersmith and Fulham",51.49118,-0.26268
+146,154,160,W5,"Ealing district: Ealing, South Ealing, Ealing Common, North Ealing, Northfields, (south and east), Pitshanger, Hanger Lane","Ealing, Hounslow",51.51243,-0.30078
+147,155,161,W6,"Hammersmith district: Fulham, Hammersmith, Ravenscourt Park, Stamford Brook (part)","Hammersmith and Fulham, Hounslow",51.492459999999994,-0.22805
+148,156,162,W7,"Hanwell district: Hanwell, Boston Manor (part)","Ealing, Hounslow",51.5111,-0.33398
+149,157,163,W8,"Kensington district: Kensington, Holland Park (part)",Kensington and Chelsea,51.500029999999995,-0.19317
+150,158,164,W9,"Maida Hill district: Maida Hill, Maida Vale, Little Venice (part)","Westminster, Brent, Camden",51.526070000000004,-0.1907
+151,159,165,W10,"North Kensington district: North Kensington, Kensal Town, Ladbroke Grove (north), Queen's Park (part)","Kensington and Chelsea, Westminster, Hammersmith and Fulham, Brent",51.521029999999996,-0.21397
+152,160,166,W11,"Notting Hill district: Notting Hill, Ladbroke Grove (south), Holland Park (part)","Kensington and Chelsea, Westminster, Hammersmith and Fulham",51.51189,-0.20424
+153,161,167,W12,"Shepherds Bush district: Shepherds Bush, White City, Wormwood Scrubs, East Acton (east)",Hammersmith and Fulham,51.50777,-0.2289
+154,162,168,W13,"West Ealing district: West Ealing, Northfields (north and west)",Ealing,51.5127,-0.31951
+155,163,169,W14,"West Kensington district: West Kensington, Kensington Olympia, Holland Park","Hammersmith and Fulham, Kensington and Chelsea",51.49488,-0.20923000000000003
+156,164,170,WC1A,New Oxford Street,Camden,51.516940000000005,-0.12475
+157,165,171,WC1B,"Bloomsbury, British Museum, Southampton Row",Camden,51.51876,-0.12612
+158,166,172,WC1E,"University College London, SOAS",Camden,51.52065,-0.13180999999999998
+159,167,173,WC1H,"St Pancras, UCL Institute of Education",Camden,51.52415,-0.1259
+160,168,174,WC1N,"Russell Square, Great Ormond Street",Camden,51.521359999999994,-0.12025
+161,169,175,WC1R,Gray's Inn,Camden,51.5186,-0.11604
+162,170,176,WC1V,High Holborn,"Camden, City of London",51.51685,-0.11899000000000001
+163,171,177,WC1X,"Kings Cross, Finsbury (west), Clerkenwell (north)","Camden, Islington",51.52489,-0.11578
+164,172,178,WC2A,"Lincoln's Inn Fields, Royal Courts of Justice, Chancery Lane","Camden, Westminster, City of London",51.515879999999996,-0.11470999999999999
+165,173,179,WC2B,"Drury Lane, Kingsway, Aldwych","Camden, Westminster",51.5151,-0.12195
+166,174,180,WC2E,Covent Garden,Westminster,51.51242,-0.1235
+167,175,181,WC2H,"Leicester Square, St. Giles","Camden, Westminster",51.51339,-0.12778
+168,176,182,WC2N,Charing Cross,Westminster,51.50975,-0.12505
+169,177,183,WC2R,"Somerset House, Temple (west)",Westminster,51.51145,-0.11921
